@@ -1,5 +1,5 @@
 # Black Markets
-List of black markets
+List of black markets.
 
 | Name  | Language | URL |
 | ------------- | ------------- | ------------- |
