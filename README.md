@@ -1,4 +1,5 @@
 # Black Markets
+![GitHub last commit](https://img.shields.io/github/last-commit/kulichr/black-markets?style=for-the-badge)
 List of black markets.
 
 | Name  | Language | URL |
