@@ -1,4 +1,4 @@
-# black-markets
+# Black Markets
 List of black markets
 
 | Name  | Language | URL |
