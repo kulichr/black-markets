@@ -11,3 +11,5 @@ List of black markets.
 | [NoHide](https://nohide.space/) | English  | hXXps://nohide[.]space |
 | [Dublikat](https://at.dublikat.club/) | Russian  | hXXps://at.dublikat[.]club |
 | [CVV Board](https://cvvboard.cc/) | Russian  | hXXps://cvvboard.[]cc |
+| [Nilfheim World](https://niflheim.world/) | English  | hXXps://niflheim[.]world |
+| [Crackia](https://crackia.com/) | English  | hXXps://crackia[.]com |
