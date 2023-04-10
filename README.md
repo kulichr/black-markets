@@ -13,3 +13,4 @@ List of black markets.
 | [CVV Board](https://cvvboard.cc/) | Russian  | hXXps://cvvboard.[]cc |
 | [Nilfheim World](https://niflheim.world/) | English  | hXXps://niflheim[.]world |
 | [Crackia](https://crackia.com/) | English  | hXXps://crackia[.]com |
+| [The Carding Asylum](https://ascarding.com/) | English  | hXXps://ascarding[.]com/ |
