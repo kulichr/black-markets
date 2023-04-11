@@ -12,6 +12,7 @@ List of black markets.
 | [Nilfheim World](https://niflheim.world/) | hXXps://niflheim[.]world |
 | [Crackia](https://crackia.com/) | hXXps://crackia[.]com |
 | [The Carding Asylum](https://ascarding.com/) | hXXps://ascarding[.]com/ |
+| [Sinister](https://sinister.ly/) | hXXps://sinister[.]ly/ |
 
 ## Russian
 | Name  | URL |
