@@ -13,7 +13,8 @@ List of black markets.
 | [Crackia](https://crackia.com/) | hXXps://crackia[.]com |
 | [The Carding Asylum](https://ascarding.com/) | hXXps://ascarding[.]com |
 | [Sinister](https://sinister.ly/) | hXXps://sinister[.]ly |
-| [CrackingAll](https://crackingall.com/) | hXXps://crackingall[.]com|
+| [CrackingAll](https://crackingall.com/) | hXXps://crackingall[.]com |
+| [Demon Forums](https://demonforums.net/) | hXXps://demonforums[.]net |
 
 ## Russian
 | Name  | URL |
