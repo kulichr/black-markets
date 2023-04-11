@@ -11,9 +11,9 @@ List of black markets.
 | [NoHide](https://nohide.space/) | hXXps://nohide[.]space |
 | [Nilfheim World](https://niflheim.world/) | hXXps://niflheim[.]world |
 | [Crackia](https://crackia.com/) | hXXps://crackia[.]com |
-| [The Carding Asylum](https://ascarding.com/) | hXXps://ascarding[.]com/ |
-| [Sinister](https://sinister.ly/) | hXXps://sinister[.]ly/ |
-| [CrackingAll](https://crackingall.com/) | hXXps://crackingall[.]com/|
+| [The Carding Asylum](https://ascarding.com/) | hXXps://ascarding[.]com |
+| [Sinister](https://sinister.ly/) | hXXps://sinister[.]ly |
+| [CrackingAll](https://crackingall.com/) | hXXps://crackingall[.]com|
 
 ## Russian
 | Name  | URL |
