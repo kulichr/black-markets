@@ -27,4 +27,3 @@ List of black markets.
 | Name  | Language | URL |
 | ------------- | ------------- | ------------- |
 | [Turk Hack Team](https://www.turkhackteam.org/) | Turkish | hXXps://turkhackteam[.]org  |
-
