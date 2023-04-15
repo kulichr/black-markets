@@ -15,6 +15,7 @@ List of black markets.
 | [Sinister](https://sinister.ly/) | hXXps://sinister[.]ly |
 | [CrackingAll](https://crackingall.com/) | hXXps://crackingall[.]com |
 | [Demon Forums](https://demonforums.net/) | hXXps://demonforums[.]net |
+| [CrackingX](https://crackingx.com/) | hXXps://crackingx[.]com |
 
 ## Russian
 | Name  | URL |
